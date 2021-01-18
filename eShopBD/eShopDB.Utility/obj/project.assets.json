@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sabbi\\Desktop\\eShopBD\\eShopBD\\eShopDB.Utility\\eShopDB.Utility.csproj",
-      "projectName": "eShopDB.Utility",
-      "projectPath": "C:\\Users\\sabbi\\Desktop\\eShopBD\\eShopBD\\eShopDB.Utility\\eShopDB.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\sabbi\\Desktop\\eShopBD\\eShopBD\\eShopDB.Utility\\eShopBD.Utility.csproj",
+      "projectName": "eShopBD.Utility",
+      "projectPath": "C:\\Users\\sabbi\\Desktop\\eShopBD\\eShopBD\\eShopDB.Utility\\eShopBD.Utility.csproj",
       "packagesPath": "C:\\Users\\sabbi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sabbi\\Desktop\\eShopBD\\eShopBD\\eShopDB.Utility\\obj\\",
       "projectStyle": "PackageReference",
