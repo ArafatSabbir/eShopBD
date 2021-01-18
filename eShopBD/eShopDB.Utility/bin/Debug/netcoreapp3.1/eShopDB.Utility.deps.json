@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "eShopDB.Utility/1.0.0": {
+        "runtime": {
+          "eShopDB.Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eShopDB.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

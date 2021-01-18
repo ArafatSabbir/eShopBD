@@ -1,0 +1,9 @@
+C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.Utility\bin\Debug\netcoreapp3.1\eShopDB.Utility.deps.json
+C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.Utility\bin\Debug\netcoreapp3.1\eShopDB.Utility.dll
+C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.Utility\bin\Debug\netcoreapp3.1\eShopDB.Utility.pdb
+C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.Utility\obj\Debug\netcoreapp3.1\eShopDB.Utility.csprojAssemblyReference.cache
+C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.Utility\obj\Debug\netcoreapp3.1\eShopDB.Utility.AssemblyInfoInputs.cache
+C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.Utility\obj\Debug\netcoreapp3.1\eShopDB.Utility.AssemblyInfo.cs
+C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.Utility\obj\Debug\netcoreapp3.1\eShopDB.Utility.csproj.CoreCompileInputs.cache
+C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.Utility\obj\Debug\netcoreapp3.1\eShopDB.Utility.dll
+C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.Utility\obj\Debug\netcoreapp3.1\eShopDB.Utility.pdb

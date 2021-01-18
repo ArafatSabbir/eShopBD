@@ -1,0 +1,9 @@
+C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.DataAccess\bin\Debug\netcoreapp3.1\eShopDB.DataAccess.deps.json
+C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.DataAccess\bin\Debug\netcoreapp3.1\eShopDB.DataAccess.dll
+C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.DataAccess\bin\Debug\netcoreapp3.1\eShopDB.DataAccess.pdb
+C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.DataAccess\obj\Debug\netcoreapp3.1\eShopDB.DataAccess.csprojAssemblyReference.cache
+C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.DataAccess\obj\Debug\netcoreapp3.1\eShopDB.DataAccess.AssemblyInfoInputs.cache
+C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.DataAccess\obj\Debug\netcoreapp3.1\eShopDB.DataAccess.AssemblyInfo.cs
+C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.DataAccess\obj\Debug\netcoreapp3.1\eShopDB.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.DataAccess\obj\Debug\netcoreapp3.1\eShopDB.DataAccess.dll
+C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.DataAccess\obj\Debug\netcoreapp3.1\eShopDB.DataAccess.pdb
