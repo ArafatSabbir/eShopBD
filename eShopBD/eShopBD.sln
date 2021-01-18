@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eShopBD", "eShopBD\eShopBD.csproj", "{A10AC72A-6F1A-4C2A-B778-000190765EB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShopDB.DataAccess", "eShopDB.DataAccess\eShopDB.DataAccess.csproj", "{79BC59AD-F592-437D-9D14-AC5024FB4B8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eShopBD.DataAccess", "eShopDB.DataAccess\eShopBD.DataAccess.csproj", "{79BC59AD-F592-437D-9D14-AC5024FB4B8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShopDB.Models", "eShopDB.Models\eShopDB.Models.csproj", "{07D333F4-24B7-47F6-91E1-B9951C9D8321}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eShopBD.Models", "eShopDB.Models\eShopBD.Models.csproj", "{07D333F4-24B7-47F6-91E1-B9951C9D8321}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShopDB.Utility", "eShopDB.Utility\eShopDB.Utility.csproj", "{77643515-50F5-461D-9D72-873C216DA345}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eShopBD.Utility", "eShopDB.Utility\eShopBD.Utility.csproj", "{77643515-50F5-461D-9D72-873C216DA345}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
