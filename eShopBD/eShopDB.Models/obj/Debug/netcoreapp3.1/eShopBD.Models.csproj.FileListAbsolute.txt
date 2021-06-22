@@ -1,8 +1,0 @@
-C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.Models\bin\Debug\netcoreapp3.1\eShopBD.Models.deps.json
-C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.Models\bin\Debug\netcoreapp3.1\eShopBD.Models.dll
-C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.Models\bin\Debug\netcoreapp3.1\eShopBD.Models.pdb
-C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.Models\obj\Debug\netcoreapp3.1\eShopBD.Models.AssemblyInfoInputs.cache
-C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.Models\obj\Debug\netcoreapp3.1\eShopBD.Models.AssemblyInfo.cs
-C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.Models\obj\Debug\netcoreapp3.1\eShopBD.Models.csproj.CoreCompileInputs.cache
-C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.Models\obj\Debug\netcoreapp3.1\eShopBD.Models.dll
-C:\Users\sabbi\Desktop\eShopBD\eShopBD\eShopDB.Models\obj\Debug\netcoreapp3.1\eShopBD.Models.pdb
